@@ -1,0 +1,58 @@
+*{
+    padding: 20px;
+    margin-top: 15px;
+}
+
+body{
+    width: 100%;
+    padding: 10px;
+    margin: 0;    
+
+}
+.container{
+    background: url(../img/sofa.jpg) no-repeat;
+    background-size: 100%;
+    background-position: bottom;
+    height: 654px;
+    background-attachment: fixed;
+}
+
+img{
+    height: 500px;
+}
+
+h1{
+    margin: 0 auto;
+    text-align: center;
+    
+}
+
+p{
+    width: 50%;
+    margin: 0 auto;
+}
+
+.bttn{
+    width: 110px;
+    margin: -56px auto;
+    padding: 25px;;
+}
+button{
+    background-color: rgb(233, 69, 9);
+    color: white;
+    padding:7px 14px ;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block; 
+    border-radius: 3px;
+    
+}
+
+.learn{
+    width: 145px;
+    margin-bottom: 5px;
+    border: none;
+}
+
+
+    

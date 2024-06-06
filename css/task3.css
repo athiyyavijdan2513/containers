@@ -1,0 +1,100 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+body{
+    width: 100%;
+    height: auto;
+    margin: 0;
+    padding: 0;
+    background: white;
+}
+
+.container{
+    width: 100%;
+    height: auto;
+    background-size: cover;
+    margin: 10px auto;
+    background-color: white;
+
+}
+
+.row{
+    width: 90%;
+    margin: 0 auto;
+    height: auto;
+    display: flex;
+}
+
+.row .content{
+    width: 50%;
+    margin-top: 14%;
+}
+.row .image{
+    margin-top: 7%;
+    width: 60%;
+}
+
+.container h1{
+    font-size: 60px;
+    font-weight: bold;
+    color: orange;
+    /* padding: 50px; */
+    position: absolute;
+    margin: 37px 95px;
+
+}
+
+.content p{
+    width: 500px;
+    font-size: large;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    color: black;
+    padding: auto;
+    margin: auto;
+
+}
+
+.content h4{
+    width: auto;
+    font-size: large;
+    font-weight: bold;
+    color: black;
+    padding: 40px;
+    margin: auto;
+}
+
+.subscribe{
+    display: flex;
+    width: 100%;
+}
+
+.btn{
+    width: 200px;
+    padding: 6px 50px;
+    font-size: large;
+    background-color: rgb(51, 180, 231);
+    color: rgb(255, 255, 255);
+    font-weight: bold;
+    text-align: center;
+    border-radius: 50px;
+    margin: 30px;
+
+}
+
+.subscribe .para{
+    width: 255px;
+    font-size: smaller;
+    font-style: italic;
+    color: black;
+    padding: 20px;
+    margin: auto;
+}
+
+
+
+
+
+
+
